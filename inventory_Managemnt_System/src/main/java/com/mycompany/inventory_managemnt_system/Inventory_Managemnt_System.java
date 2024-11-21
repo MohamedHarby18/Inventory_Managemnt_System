@@ -8,6 +8,6 @@ public class Inventory_Managemnt_System {
 
     public static void main(String[] args) {
         System.out.println("Hello Every one");
-        System.out.println("Fuck Kareem el metnak");
+        System.out.println("Fuck Kareem el 3rs");
     }
 }
